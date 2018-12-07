@@ -1,0 +1,32 @@
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1.mdf
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1_log.ldf
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._1Page.resources
+C:\Users\Vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.StartPage.resources
+C:\Users\Vova\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._2Page.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\bin\Debug\Database1.mdf
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\bin\Debug\Database1_log.ldf
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._1Page.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._2Page.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.StartPage.resources
+C:\Users\Vova\Desktop\Копія Курсача\WindowsFormsApplication23\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
